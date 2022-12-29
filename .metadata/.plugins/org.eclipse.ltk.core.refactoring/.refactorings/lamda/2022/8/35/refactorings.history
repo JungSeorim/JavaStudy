@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;collectionTest.StringTask&apos; to &apos;StreamTask&apos;&#x0D;&#x0A;- Original project: &apos;lamda&apos;&#x0D;&#x0A;- Original element: &apos;collectionTest.StringTask&apos;&#x0D;&#x0A;- Renamed element: &apos;collectionTest.StreamTask&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;StringTask&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;collectionTest{StringTask.java[StringTask" matchStrategy="1" name="StreamTask" qualified="false" references="true" similarDeclarations="false" stamp="1661074321813" textual="false" version="1.0"/>
+</session>
